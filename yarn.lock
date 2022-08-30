@@ -1790,10 +1790,10 @@ chalk@^2.0.0, chalk@^2.4.2:
     escape-string-regexp "^1.0.5"
     supports-color "^5.3.0"
 
-china-area-data-lg@^5.0.3:
-  version "5.0.3"
-  resolved "https://registry.yarnpkg.com/china-area-data-lg/-/china-area-data-lg-5.0.3.tgz#5fd4a516539bc1191f14ef6a93e79798d8c02f47"
-  integrity sha512-SZHrxaxD6GMpiX1089Rqgid4oe5ug1/rI89NofK0ZfHDywasbhqWytyVUcST4UYpdP6dHu6NFeAQnIKJylomew==
+china-area-data-lg@^5.0.4:
+  version "5.0.4"
+  resolved "https://registry.yarnpkg.com/china-area-data-lg/-/china-area-data-lg-5.0.4.tgz#9951d3c3380cdc991036c1b33077b9a5031757f1"
+  integrity sha512-Kq4BV4Q5nA8WulS45cXCwh7GInliu4VI9d1RrdnLVPt+UD8yZLtzOsjsoejLrJPI8dZqxGdPAS2WoA07IZBYkA==
 
 chokidar@^2.1.8:
   version "2.1.8"
